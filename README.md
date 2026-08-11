@@ -25,6 +25,7 @@ R packages:
 ```r
 install.packages(c("lme4", "multcomp", "simr"))
 ```
+> **Note on file paths.** The Python notebooks were written in Google Colab and mount Google Drive, so update the Drive path to wherever you store the CSV files. The R script sets a local working directory (`setwd(...)`) near the top — change it to the folder containing `thesis_long_format.csv` before running.
 
 ## File Structure
 
