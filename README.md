@@ -1,4 +1,4 @@
-# Choosing-Where-to-Buy-Clothing-in-Taiwan
+
 # Choosing Where to Buy Clothing in Taiwan: Price, Discounts, and Seller Reputation in Online and Offline Purchase Decisions
 
 Master's thesis project — International Master's Program of Applied Economics and Social Development (IMES), National Chengchi University.
@@ -66,7 +66,7 @@ install.packages(c("lme4", "multcomp", "simr"))
 
 ## Acknowledgments
 
-Dr. Jacob Reidhead (IMES, NCCU) for supervision and feedback throughout the project.
+Dr. Jacob Reidhead (IDAS, NCCU) for supervision and feedback throughout the project.
 
 ## References
 
